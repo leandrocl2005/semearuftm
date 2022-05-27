@@ -335,7 +335,7 @@ body.menu-expanded button path {
   padding-block: 4rem;
   margin-inline: auto;
 
-  background-color: var(--brand-beige);
+  background-color: white;
   border: 1px solid var(--brand-light);
   border-radius: 0.6rem;
 
@@ -388,7 +388,7 @@ body.menu-expanded button path {
 /*=== ABOUT =================================*/
 #about {
   text-align: left;
-  background-color: var(--brand-beige);
+  background-color: white;
 }
 
 #about header h2 {
